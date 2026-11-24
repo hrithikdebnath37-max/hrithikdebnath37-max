@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hrithik Debnath 👋</h1>
+<h1 align="center">Hi, I'm Rithik Debnath 👋</h1>
 <p align="center">Aspiring Full-Stack Developer from Bangladesh 🇧🇩<br>
 I build REST APIs with Node.js & Express and frontends with React.</p>
 
